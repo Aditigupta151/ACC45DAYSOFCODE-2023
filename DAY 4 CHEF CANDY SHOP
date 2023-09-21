@@ -1,0 +1,12 @@
+X = input("chef daily goal to sell chocolates :")
+
+Y = input("chef sells amount of chocolates :")
+
+
+if X>=Y :
+    T = (Y*1)
+    print("total amount chef made in a day is " + str(T) + "rupees" )
+
+elif X<Y :
+    A = ((Y-X)*2 + (X)*1)
+    print("rupees chef made in a day is " + str(A))
