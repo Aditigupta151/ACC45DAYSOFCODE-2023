@@ -1,0 +1,7 @@
+X = input("battery percentage:")
+
+if X<=15 :
+    print("low battery ")
+
+else :
+    print("no low battery")
