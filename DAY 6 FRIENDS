@@ -1,0 +1,5 @@
+x = input(" no of friends :")
+print(x)
+
+n = input("age of friend :")
+print(n)
