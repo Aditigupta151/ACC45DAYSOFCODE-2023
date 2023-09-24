@@ -1,0 +1,12 @@
+X = input("No of following account in instagram :")
+
+Y = input("No of follower account in instagram :")
+
+T = int("is account is spam or not")
+print(T)
+
+if X<=Y :
+print(No)
+
+else :
+print(yes)
