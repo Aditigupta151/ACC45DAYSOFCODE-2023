@@ -1,1 +1,17 @@
-X
+X = input(" capacity of geyser storing liters of water :")
+
+Y = input("capacity of bucket storing water :")
+
+T = ( "person need amount of water to take bath")
+
+print(T)
+
+A = int(2*Y)
+print(A)
+
+if A>=X :
+  print(" 0 people can take bath")
+
+else :
+  S = int(X/A)
+   print(S)
