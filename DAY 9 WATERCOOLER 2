@@ -1,0 +1,10 @@
+X = ("cost of renting watercooler for a month:")
+
+Y = ("cost of buying watercooler:")
+
+T = int(Y/X)
+
+if Y=<X :
+  print("no need to take watercooler on rent")
+else :
+  print("T")
