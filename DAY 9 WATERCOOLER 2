@@ -1,6 +1,6 @@
-X = ("cost of renting watercooler for a month:")
+X = input("cost of renting watercooler for a month:")
 
-Y = ("cost of buying watercooler:")
+Y = input("cost of buying watercooler:")
 
 T = int(Y/X)
 
