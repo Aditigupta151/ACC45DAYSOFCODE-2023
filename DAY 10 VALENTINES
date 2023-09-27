@@ -1,0 +1,7 @@
+× = input(" total rupees chef have :")
+
+y = input(" each chocolate cost :")
+
+t = int(×/y)
+print("total no of chocolate chef can buy =" + "t")
+
