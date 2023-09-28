@@ -1,0 +1,2 @@
+× = input("no of team members in team:")
+print(x)
