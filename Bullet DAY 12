@@ -1,0 +1,8 @@
+× = input(" speed of bullet shoot by mario:")
+y = input("distance of Goomba from mario:")
+
+t = ("time taken by mario to shoot gomba is")
+print("t" + int(×/y))
+
+z = input("time mario want to need shoot goomba:")
+print(z-(×/y))
