@@ -1,0 +1,20 @@
+A = input( " units to be generates power in each year :")
+
+B = input("can generates powers for how many years :")
+
+T = A*B
+
+print(int(T) + "total power moon can provide")
+X = input("moon havindg helium3 :")
+
+Y = input(" each gram of helium3 can provide power :")
+
+D = X*Y
+
+print(int(D)+ "total power provided by moon")
+
+if D>T :
+ print("NO")
+
+else :
+  print("yes")
