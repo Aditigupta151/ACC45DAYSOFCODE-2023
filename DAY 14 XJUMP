@@ -1,0 +1,7 @@
+x = input(" No of stairs chef want to reach :")
+
+y = input(" No of steps chef can climb  :")
+
+t = int(x - y)
+print("No of stairs chef can move step  is" + "t")
+
