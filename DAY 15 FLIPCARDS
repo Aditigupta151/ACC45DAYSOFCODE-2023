@@ -1,0 +1,12 @@
+N = input(" number of cards on a table :")
+
+X = input(" number of cards kept face up :")
+T = int(N-X)
+print("so number of cards kept face down" + int(T))
+
+if X>T :
+   print("T" + "is number of cards need to flip up")
+
+else :
+   print("X" + "is number of cards need to flip down")
+
