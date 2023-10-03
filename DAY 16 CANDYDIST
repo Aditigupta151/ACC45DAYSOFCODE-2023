@@ -1,0 +1,11 @@
+n = input(" number of candies chef have:")
+
+m = input(" number of friends chef have:")
+
+t = int(n/m)
+
+if t= t-1/2 :
+  print("yes")
+
+else :
+  print("no")
