@@ -1,0 +1,10 @@
+x = input(" enter your seat number :")
+
+if x<=10 : 
+    print(x + "is lower double seat")
+elif 10<x<=15 :
+    print(x+ "is lower single seat")
+elif 15<x<=25 :
+    print(x + "is upper double seat")
+else 25<x<=30 :
+    print(x + "is upper lower seat")
