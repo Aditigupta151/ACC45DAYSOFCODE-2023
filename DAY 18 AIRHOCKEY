@@ -1,0 +1,10 @@
+x = input("score of alice :")
+
+y = input("score of Bob:")
+
+if x>y :
+  print("runs needed to win match by Alice is" + int(7-x))
+
+else x=<y :
+    print("runs needed to win match by Bob is" + int(7-y))
+
