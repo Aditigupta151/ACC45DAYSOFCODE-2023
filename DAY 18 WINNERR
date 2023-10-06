@@ -1,0 +1,10 @@
+x =input(" penalty for p:")
+
+y = input("penalty for q:")
+
+if x>y : 
+   print("p got higher rank")
+elif x=y :
+  print("both get same rank")
+else x<y :
+   print("q got higher rank")
