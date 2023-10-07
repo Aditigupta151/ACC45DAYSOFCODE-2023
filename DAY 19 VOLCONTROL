@@ -1,0 +1,8 @@
+x = input("enter current volume :")
+
+y = input("enter volume that you want:")
+
+if x>y : 
+   print(int(x-y) + " times press volume down")
+else : 
+    print(int(y-x) + " times press volume up")
