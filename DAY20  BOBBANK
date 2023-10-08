@@ -1,0 +1,10 @@
+W = input("current account balance of bob:")
+
+X = input("amount deposited by bob's office every month:")
+
+Y = input("every month bob's bank deduct rupees from his account:")
+
+A = input("int(enter which month of bank balance you need:)")
+
+Z = int(W +((X-Y)*A) 
+   print(Z)
