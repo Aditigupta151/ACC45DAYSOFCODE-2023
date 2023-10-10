@@ -1,0 +1,12 @@
+x = input("enter marks of english:")
+y = input("enter marks of maths:")
+z = input("enter marks of science:")
+a = input("enter marks of sst:")
+b = input("enter marks of hindi:")
+
+sum = int(x+y+z+a+b)
+
+if sum>=150:
+  print("pass")
+else sum<150: 
+   print("fail")
