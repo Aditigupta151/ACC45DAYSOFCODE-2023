@@ -1,0 +1,5 @@
+x = input("enter your number:")
+y = input("enter next number:")
+z = input("enter next number:")
+A = int(x+y+z)
+  print(A)
