@@ -1,0 +1,15 @@
+x = input("enter your 1st number:")
+y = input("enter your 2nd numer:")
+z = input("enter your mode of operator eg . sum,sub,multiply,divide:")
+if sum = int(x+y):
+  print("sum")
+
+elif sub = int(x-y):
+   print("sub")
+     
+elif multiply = int(x*y):
+  print("multiply")
+
+else divide = int(x/y):
+    print("divide")
+        
