@@ -1,0 +1,4 @@
+x = input("enter marks obtain by chef:")
+
+t = int((x/3)%)
+print(t + "is number of minimum question chef got incorrect")
