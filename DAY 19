@@ -1,0 +1,16 @@
+x = input("total amount of money require for Netflix subscription:")
+
+a = input("money have by alice:")
+b = input("money have by bob:")
+c = input("money have by charlie:")
+
+if int((a+b)>=x) :
+   print("Alice and Bob can buy Netflix subscription ")
+
+elif int((b+c)>=x) :
+    print(" Bob and Charlie can buy Netflix subscription ")
+
+else int((c+a)>=x) :
+    print("Charlie and Alice can buy Netflix subscription ")
+
+print("there can be another options too")
