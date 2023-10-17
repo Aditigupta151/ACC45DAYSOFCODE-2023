@@ -1,0 +1,9 @@
+x = input("enter no. of chocolate chef have :")
+c = input("enter no. of chocolate chef want to give to Botswal :")
+y = input("enter cost of each chocolate:")
+a = (c-x)×y
+if x>=c :
+  print("chef don't need to spend money on buying chocolates")
+
+else x<c :
+   print("minimum money needed by chef to by chocolate " + int(a) )
