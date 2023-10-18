@@ -1,0 +1,11 @@
+N = input("enter the number of problems:")
+X = input(" enter marks carry by each problem:")
+
+Y = input("enter the marks chef should obtain:")
+
+T = N*X
+
+if T>=Y :
+   print("yes")
+else T<Y :
+   print("no")
