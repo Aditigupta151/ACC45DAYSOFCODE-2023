@@ -1,0 +1,3 @@
+x = input("enter age to vote in chefland:")
+n = input(" total no. of population :")
+print("total no of voters are" + int(x))
