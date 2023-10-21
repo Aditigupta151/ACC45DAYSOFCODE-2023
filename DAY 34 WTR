@@ -1,0 +1,11 @@
+a = input("enter the temperature of bath tub:")
+x = input("enter he have hot water in liters :")
+y = input ("enter he have cold water in liters:")
+b = input(" enter desire temperature of bath tub:")
+
+if b=a :
+   print("no need of mixing water ")
+elif b>a :
+   print("we need to add hot water")
+else :
+   print(" we need to add cold water")
