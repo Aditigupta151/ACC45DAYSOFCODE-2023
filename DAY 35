@@ -1,0 +1,18 @@
+w = input("enter weight of object he want to play with :")
+
+x = input(" enter weight of 1st object he have:")
+y = input(" enter weight of 2nd object he have :")
+z = input("enter weight of 3rd he have :")
+
+if x,y,z = w :
+    print("YES")
+elif x+y = w :
+    print("yes")
+elif y+z = w :
+    print("yes")
+elif z+x = w : 
+    print("yes")
+elif x+y+z = w :
+    print("yes")
+else : 
+   print("no")
