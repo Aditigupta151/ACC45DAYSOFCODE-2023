@@ -1,0 +1,9 @@
+x = input(" chef prepared no.of plates for brunch :")
+y = input(" each neighbour eat plate :")
+
+t = int( x - y×20)
+a = int(20-t)
+if t>=0 :
+  print(" all neighbour can be feeded")
+else :
+   print("these neighbour can be feeded" + a)
