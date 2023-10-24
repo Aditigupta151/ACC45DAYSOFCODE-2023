@@ -1,0 +1,20 @@
+s = input(" chef phone have total storage :")
+
+x = input(" 1st app acquire storage in chefs phone:")
+
+y = input(" 2nd app acquire storage in chefs phone :")
+
+z = input(" enter storage of app wish to install :")
+
+t = int( s - (x +y))
+
+if z>t : 
+  print(" app should be deleted to install this app ")
+
+  if t-x > z :
+     print(" 1st app should be deleted ")
+  else :
+     print(" 2nd app should be deleted ")
+else :
+   print(" no app should be deleted ")
+
