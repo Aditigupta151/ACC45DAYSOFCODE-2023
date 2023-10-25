@@ -1,0 +1,13 @@
+N = input(" enter desirable peices of pizza :")
+
+t = N/2
+a = N/4 
+
+if t,a = 0 :
+   print(" no cuts will be done ")
+
+elif t >0 :
+   print(" one cut will be done:")
+
+else a>0 :
+    print("2 cut will be done")
