@@ -1,0 +1,15 @@
+A¹ = input("Company A exporting goods in units:")
+A² = input(" Company A importing goods in units:")
+
+a = A¹-A² 
+
+B¹ = input(" Company B exporting goods in units:")
+B² = input(" Company B importing goods in unit:")
+
+b = B¹- B²
+
+if int(a+b)>= 0 :
+   print( "No, surplus has been made hence there is no Part of Company c in surplus")
+
+else int(a+b)<0 :
+   print(" yes , surplus has been made and c Company is part of surplus")
