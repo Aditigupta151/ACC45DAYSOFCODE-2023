@@ -1,0 +1,13 @@
+a = (" coin of 5rs ")
+
+b = (" coin of 10rs ")
+
+X = input(" Rupees chef need to pay :")
+t = X/5
+if t >= 0 :
+    print(" yes")
+else :
+    print(" no")
+
+
+
