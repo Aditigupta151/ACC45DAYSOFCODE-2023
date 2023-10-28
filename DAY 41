@@ -1,0 +1,9 @@
+N = input(" how many spooky days left in Halloween:")
+
+t = int(N/7)
+
+if N=<1 :
+   print(" he cannot enjoy his Tuesday favorite meal")
+
+else N>1 :
+    print(" he can enjoy his meal " + "t")
