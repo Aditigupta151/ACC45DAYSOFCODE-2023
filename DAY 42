@@ -1,0 +1,10 @@
+x = input(" score of the match:")
+
+if x =0 :
+   print("match have not started")
+
+elif x>=1 ,x++ :
+   print("Alice is playing")
+
+else :
+  print("Bob is playing")
