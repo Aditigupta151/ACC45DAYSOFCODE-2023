@@ -1,0 +1,13 @@
+N = input("enter the cost of food if chef order from online:")
+
+M = input("enter the cost of food if chef order in restaurant:")
+
+#chef have 10% coupon for online food ordering
+
+t = float(N-10%)
+
+if t>=M :
+    print('chef will order in restaurant')
+
+else :
+    print('chef will order from online')
