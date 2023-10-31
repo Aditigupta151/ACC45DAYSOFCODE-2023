@@ -1,0 +1,9 @@
+x = input("enter total duration of movie:")
+
+y = input("portion of movie chef see in twice the usual speed:")
+
+t = int(y/2)
+
+a = x-t
+b = a + t
+print("so chef movie of " + x + "in" + b)
