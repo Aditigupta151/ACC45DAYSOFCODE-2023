@@ -1,0 +1,9 @@
+N = input(" enter the number of friends chef have :")
+M = input(" enter the number of left shoes already chef have:")
+
+a = N-M
+
+print("chef have to buy right shoes " + int(N) )
+
+print("chef have to buy left shoes " + int(a) )
+
