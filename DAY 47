@@ -1,0 +1,20 @@
+x = input("enter the value offered by 1st investor in exchange of 10% of company:")
+
+y = input("enter the value  offered by 2nd investor  in exchange of 20% of company:")
+
+#a is valuation of company by investor 1st
+
+a = x*10 
+
+#b is valuation of company by investor 2nd
+
+b = y*5
+
+if a==b :
+  print("choose any one investor ")
+
+elif a>b :
+  print("choose 1st investor")
+
+elif a<b :
+  print("choose 2nd investor")
