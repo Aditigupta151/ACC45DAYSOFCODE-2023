@@ -1,0 +1,12 @@
+x = input("enter the skill of 1st team:")
+
+y = input("enter the skill of 2nd team:")
+
+a = input("enter the skill difference chef wants:")
+t = int|x-y|
+
+if a>t :
+  print("NO")
+
+else :
+  print("yes")
