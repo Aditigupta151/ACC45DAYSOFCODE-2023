@@ -13,4 +13,4 @@ elif int((b+c)>=x) :
 else int((c+a)>=x) :
     print("Charlie and Alice can buy Netflix subscription ")
 
-print("there can be another options too")
+print("there can be another options too") 
