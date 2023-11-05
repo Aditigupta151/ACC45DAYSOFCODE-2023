@@ -1,0 +1,12 @@
+N = input("enter number of buns present in place where Alice and his family stucked:")
+X = input("enter each member eat how many peice per day:")
+
+D = input("enter the number of days family survive after finishing of food supply:")
+
+t = int(N / 5*5)
+
+a = int(t+D)
+
+print("number of days Alice and his family survive are" + a)
+
+
