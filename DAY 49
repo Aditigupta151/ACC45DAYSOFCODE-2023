@@ -1,0 +1,7 @@
+x = input("enter any number:")
+
+if x%==0 :
+  print("it is a prime number ")
+
+else :
+  print("it is a composite number")
